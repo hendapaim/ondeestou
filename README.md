@@ -2,4 +2,4 @@
 geolocalização  localização o usuário
 
 ## ScreenShot
-<img src="C:\Dev\Android\OndeEstou\Screenshot.png" title="ScreebShot" alt="ScreebShot"/>
+<img src="./Screenshot.png" title="ScreebShot" alt="ScreebShot"/>
