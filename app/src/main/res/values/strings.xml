@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Onde Estou</string>
+    <string name="localizacao_do_usuario">Localizacao do usuario</string>
+    <string name="minha_localizacao">Minha Localizacao</string>
+    <string name="latitude">Latitude:</string>
+    <string name="textview">Latitude</string>
+    <string name="LongitudeHere">Texto Logitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="by_henda_dev">By: Henda Dev</string>
+    <string name="Aviso">Por favor permite a sua localizacao...</string>
+</resources>
